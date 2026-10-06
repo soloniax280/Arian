@@ -1,3 +1,9 @@
-# Task Manager
+# Reports
 
-A simple task management application.
+Reporting feature is under development.
+
+## Available Reports
+
+- Daily report
+- Weekly report
+- Monthly report
