@@ -2,8 +2,6 @@
 
 Reporting feature is under development.
 
-## Available Reports
+## Project Status
 
-- Daily report
-- Weekly report
-- Monthly report
+The Task Manager project is actively developed for report feature.
